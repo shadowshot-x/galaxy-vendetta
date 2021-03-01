@@ -9,6 +9,10 @@ You can control the Features of your ship by showing some Gestures.
 3. INCREASE SPEED :- Get away from a Black Hole. Raise your Right Hand Straight
 4. ATTACK :- Destroy Alien Spaceships ahead. Join your hands above your head.
 
+## Try Online
+![Netlify Link](https://vendettaofthefallengalaxy.netlify.app/)
+![https://vendetta-of-the-fallen-galaxy.co/](https://vendetta-of-the-fallen-galaxy.co/)
+
 ## Video Below
 [![Thumbnail](https://img.youtube.com/vi/FzqOyIhcFcQ/0.jpg)](https://www.youtube.com/watch?v=FzqOyIhcFcQ)
 
